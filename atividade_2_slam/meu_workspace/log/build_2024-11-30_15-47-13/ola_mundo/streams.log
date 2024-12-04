@@ -1,0 +1,36 @@
+[0.660s] Invoking command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ola_mundo': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data
+[0.840s] running egg_info
+[0.841s] creating ../../build/ola_mundo/ola_mundo.egg-info
+[0.841s] writing ../../build/ola_mundo/ola_mundo.egg-info/PKG-INFO
+[0.841s] writing dependency_links to ../../build/ola_mundo/ola_mundo.egg-info/dependency_links.txt
+[0.841s] writing entry points to ../../build/ola_mundo/ola_mundo.egg-info/entry_points.txt
+[0.841s] writing requirements to ../../build/ola_mundo/ola_mundo.egg-info/requires.txt
+[0.841s] writing top-level names to ../../build/ola_mundo/ola_mundo.egg-info/top_level.txt
+[0.841s] writing manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.843s] reading manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.843s] writing manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[0.843s] running build
+[0.843s] running build_py
+[0.843s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build
+[0.844s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib
+[0.844s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.844s] copying ola_mundo/ola_mundo.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.844s] copying ola_mundo/__init__.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib/ola_mundo
+[0.844s] running install
+[0.844s] running install_lib
+[0.845s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.845s] copying /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib/ola_mundo/ola_mundo.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.845s] copying /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build/lib/ola_mundo/__init__.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo
+[0.845s] byte-compiling /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo/ola_mundo.py to ola_mundo.cpython-310.pyc
+[0.846s] byte-compiling /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo/__init__.py to __init__.cpython-310.pyc
+[0.846s] running install_data
+[0.846s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/share/ament_index
+[0.846s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/share/ament_index/resource_index
+[0.846s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/share/ament_index/resource_index/packages
+[0.846s] copying resource/ola_mundo -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/share/ament_index/resource_index/packages
+[0.846s] copying package.xml -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/share/ola_mundo
+[0.846s] running install_egg_info
+[0.848s] Copying ../../build/ola_mundo/ola_mundo.egg-info to /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo-0.0.0-py3.10.egg-info
+[0.848s] running install_scripts
+[0.863s] writing list of installed files to '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log'
+[0.882s] Invoked command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ola_mundo' returned '0': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data

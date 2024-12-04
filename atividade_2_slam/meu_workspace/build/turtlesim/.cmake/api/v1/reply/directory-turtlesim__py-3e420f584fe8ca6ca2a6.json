@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "turtlesim__py",
+		"source" : "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/turtlesim/turtlesim__py"
+	}
+}

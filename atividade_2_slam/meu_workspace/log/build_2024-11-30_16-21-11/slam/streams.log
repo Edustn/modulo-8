@@ -1,0 +1,36 @@
+[0.725s] Invoking command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/slam': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/install.log --single-version-externally-managed install_data
+[0.935s] running egg_info
+[0.936s] creating ../../build/slam/slam.egg-info
+[0.936s] writing ../../build/slam/slam.egg-info/PKG-INFO
+[0.936s] writing dependency_links to ../../build/slam/slam.egg-info/dependency_links.txt
+[0.936s] writing entry points to ../../build/slam/slam.egg-info/entry_points.txt
+[0.936s] writing requirements to ../../build/slam/slam.egg-info/requires.txt
+[0.936s] writing top-level names to ../../build/slam/slam.egg-info/top_level.txt
+[0.937s] writing manifest file '../../build/slam/slam.egg-info/SOURCES.txt'
+[0.938s] reading manifest file '../../build/slam/slam.egg-info/SOURCES.txt'
+[0.938s] writing manifest file '../../build/slam/slam.egg-info/SOURCES.txt'
+[0.938s] running build
+[0.938s] running build_py
+[0.939s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build
+[0.939s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib
+[0.939s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib/slam
+[0.939s] copying slam/slam.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib/slam
+[0.939s] copying slam/__init__.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib/slam
+[0.939s] running install
+[0.939s] running install_lib
+[0.940s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam
+[0.940s] copying /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib/slam/slam.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam
+[0.940s] copying /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build/lib/slam/__init__.py -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam
+[0.940s] byte-compiling /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam/slam.py to slam.cpython-310.pyc
+[0.940s] byte-compiling /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam/__init__.py to __init__.cpython-310.pyc
+[0.940s] running install_data
+[0.940s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/share/ament_index
+[0.940s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/share/ament_index/resource_index
+[0.941s] creating /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/share/ament_index/resource_index/packages
+[0.941s] copying resource/slam -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/share/ament_index/resource_index/packages
+[0.941s] copying package.xml -> /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/share/slam
+[0.941s] running install_egg_info
+[0.943s] Copying ../../build/slam/slam.egg-info to /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages/slam-0.0.0-py3.10.egg-info
+[0.944s] running install_scripts
+[0.960s] writing list of installed files to '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/install.log'
+[0.984s] Invoked command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/slam' returned '0': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/slam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/slam build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/slam/install.log --single-version-externally-managed install_data

@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlesim",
+  "non_idl_tuples": [
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:action/RotateAbsolute.action",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:msg/Color.msg",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:msg/Pose.msg",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:srv/Kill.srv",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:srv/SetPen.srv",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:srv/Spawn.srv",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:srv/TeleportAbsolute.srv",
+    "/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ros_tutorials/turtlesim:srv/TeleportRelative.srv"
+  ]
+}

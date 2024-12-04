@@ -1,0 +1,21 @@
+[0.839s] Invoking command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ola_mundo': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data
+[1.057s] running egg_info
+[1.057s] writing ../../build/ola_mundo/ola_mundo.egg-info/PKG-INFO
+[1.058s] writing dependency_links to ../../build/ola_mundo/ola_mundo.egg-info/dependency_links.txt
+[1.058s] writing entry points to ../../build/ola_mundo/ola_mundo.egg-info/entry_points.txt
+[1.058s] writing requirements to ../../build/ola_mundo/ola_mundo.egg-info/requires.txt
+[1.058s] writing top-level names to ../../build/ola_mundo/ola_mundo.egg-info/top_level.txt
+[1.060s] reading manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[1.061s] writing manifest file '../../build/ola_mundo/ola_mundo.egg-info/SOURCES.txt'
+[1.061s] running build
+[1.061s] running build_py
+[1.061s] running install
+[1.062s] running install_lib
+[1.064s] running install_data
+[1.064s] running install_egg_info
+[1.066s] removing '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo-0.0.0-py3.10.egg-info' (and everything under it)
+[1.066s] Copying ../../build/ola_mundo/ola_mundo.egg-info to /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages/ola_mundo-0.0.0-py3.10.egg-info
+[1.066s] running install_scripts
+[1.084s] Installing ola script to /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/ola_mundo
+[1.084s] writing list of installed files to '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log'
+[1.110s] Invoked command in '/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/src/ola_mundo' returned '0': PYTHONPATH=/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/install/ola_mundo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ola_mundo build --build-base /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/build install --record /home/edu-bat/Documentos/GitHub/modulo-8/atividade_2_slam/meu_workspace/build/ola_mundo/install.log --single-version-externally-managed install_data
